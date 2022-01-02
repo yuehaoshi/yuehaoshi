@@ -1,6 +1,6 @@
 ### Hi, welcome to my Git, nice to meet you!
 
-My name is Yuehao Shi, I am currently working in the University of Illinois at Urbana-Champaign as a teaching and research assistant, and am dreaming to be a programmer in the future. ✨
+My name is Yuehao Shi, I am currently working in the University of Illinois at Urbana-Champaign, IL, USA, as a teaching and research assistant, and am dreaming to be a programmer in the future. ✨
 
 Here is my personal website with a selected lists of my work as a programmer: https://yuehaoshi.github.io/myweb/ 🌱
 
