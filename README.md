@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, my name is Yuehao Shi, I am currently working in the University of Illinois at Urbana-Champaign as a teaching and research assistant, and am dreaming to be a programmer in the future. ✨
+
+Here is my personal website with a selected lists of my work as a programmer: https://yuehaoshi.github.io/myweb/
 
 <!--
 **yuehaoshi/yuehaoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
