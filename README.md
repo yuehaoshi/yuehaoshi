@@ -1,10 +1,13 @@
-### Hi, welcome to my Git, nice to meet you!
+### Hello, I'm Yuehao Shi! 👋
 
-My name is Yuehao Shi, I am currently working in the University of Illinois at Urbana-Champaign, IL, USA, as a teaching and research assistant, and am dreaming to be a programmer in the future. ✨
+I'm a graduate student pursuing a degree in Computer Science at the University of Illinois at Urbana-Champaign (UIUC), with a strong desire to excel as a Software Development Engineer. My skills encompass Java, C++, Python, SQL, Node.js, and React.js. I'm also equipped with a background in environmental engineering, which fuels my vision to digitize traditional engineering domains.
 
-Here is my personal website with a selected list of my work: https://yuehaoshi.github.io/ 🌱
+🚀 Explore my portfolio at [yuehaoshi.github.io](https://yuehaoshi.github.io/) to see how I approach software design, debugging, deployment, and project management. My work reflects an innovative mindset and a commitment to customer satisfaction.
 
-Feel free to contact me with my email: yuehaos2@illinois.edu for any ideas, questions, or just greetings! 😄
+Driven by deadlines and undeterred by challenges, I'm eager to contribute my diverse skill set to a dynamic software development team. Let's connect and ignite innovation together!
+
+Feel free to reach out to me via email at yuehaos2@illinois.edu for ideas, questions, or just to say hello. 😄
+
 
 <!--
 **yuehaoshi/yuehaoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
